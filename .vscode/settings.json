@@ -58,6 +58,10 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
     "xstring": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "vector": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp",
+    "xutility": "cpp"
   }
 }
