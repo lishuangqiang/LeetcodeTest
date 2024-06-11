@@ -62,6 +62,7 @@
     "vector": "cpp",
     "initializer_list": "cpp",
     "utility": "cpp",
-    "xutility": "cpp"
+    "xutility": "cpp",
+    "xiosbase": "cpp"
   }
 }
