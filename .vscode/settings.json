@@ -63,6 +63,8 @@
     "initializer_list": "cpp",
     "utility": "cpp",
     "xutility": "cpp",
-    "xiosbase": "cpp"
+    "xiosbase": "cpp",
+    "iosfwd": "cpp",
+    "locale": "cpp"
   }
 }
