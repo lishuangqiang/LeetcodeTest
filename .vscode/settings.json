@@ -65,6 +65,7 @@
     "xutility": "cpp",
     "xiosbase": "cpp",
     "iosfwd": "cpp",
-    "locale": "cpp"
+    "locale": "cpp",
+    "format": "cpp"
   }
 }
