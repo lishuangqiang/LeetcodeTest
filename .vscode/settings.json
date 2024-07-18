@@ -66,6 +66,19 @@
     "xiosbase": "cpp",
     "iosfwd": "cpp",
     "locale": "cpp",
-    "format": "cpp"
+    "format": "cpp",
+    "exception": "cpp",
+    "ios": "cpp",
+    "istream": "cpp",
+    "iterator": "cpp",
+    "memory": "cpp",
+    "mutex": "cpp",
+    "optional": "cpp",
+    "ostream": "cpp",
+    "sstream": "cpp",
+    "stop_token": "cpp",
+    "streambuf": "cpp",
+    "thread": "cpp",
+    "tuple": "cpp"
   }
 }
